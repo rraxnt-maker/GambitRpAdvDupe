@@ -1,2 +1,0 @@
-# GambitRpAdvDupe
-Vortex buildingz
